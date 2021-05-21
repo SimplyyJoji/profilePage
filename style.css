@@ -1,0 +1,204 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+nav {
+  padding: 1rem;
+  display: flex;
+  background-color: black;
+  color: white;
+}
+nav a {
+  margin: 5rem;
+}
+.navLink {
+  margin: 10px;
+  color: white;
+  text-decoration: none;
+  margin: 0px 15px;
+}
+
+.mainCardTop {
+  padding: 40px;
+  background-color:cadetblue;
+}
+
+.profilePic {
+  height:150px;
+  border-radius: 50%;
+  position: relative;
+  bottom: 45px;
+  left: 15px;
+}
+.cardHead {
+  position: relative;
+  bottom: 45px;
+  left: 25px;
+}
+.city {
+  position: relative;
+  bottom: 35px;
+  left: 25px;
+}
+.marker {
+  width: 12px;
+}
+.edit{
+  position: relative;
+  left: 2rem;
+  top: 1rem;
+}
+.linkImg {
+  position: relative;
+  width: 1rem;
+  right: .5rem;
+}
+
+.info{
+  margin: 0px 20px;
+}
+
+
+button {
+  background-color: teal;
+  color:white;
+  height: 2rem;
+  width: 8rem;
+  position: absolute;
+  top: 1rem;
+  left: 80rem;
+}
+
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: 5rem;  
+}
+
+.mainCard {
+  height: 25rem;
+  width: 200rem;
+  border: 1px solid black;
+}
+
+.cardTop {
+  padding: .5rem;
+  background-color: black;
+  color: white;
+}
+
+.sideCard {
+  position: relative;
+  left: 1rem;
+  height: 11rem;
+  width: 70rem;
+  border: 1px solid black;
+}
+.connectRequest {
+  background-color: grey;
+  
+}
+.nameTop {
+  position: relative;
+  left: 4.5rem;
+  bottom: 1.5rem;
+}
+.nameBot {
+  position: relative;
+  left: 4.5rem;
+  bottom: .4rem;
+}
+.buttonTop{
+  position: relative;
+  left: 10rem;
+  bottom: 3rem;
+}
+
+.buttonBot {
+  position: relative;
+  left: 10rem;
+  bottom: 5rem;
+}
+
+.btn {
+  margin: 0px 1px;
+  height: 25px;
+}
+
+.sideCard2 {
+  position: relative;
+  right: 14.5rem;
+  top: 13rem;
+  height: 22rem;
+  width: 70rem;
+  border: 1px solid black;
+}
+.nameConnect {
+  position: relative;
+  left: 5rem;
+  bottom: 1.5rem;
+}
+
+.connects {
+  background-color: grey;
+  border-radius: 50%;
+  color: black;
+}
+
+.connectPicTop {
+  height: 45px;
+  border-radius: 50%;
+  position: relative;
+  left: 1rem;
+  top: 9px;
+}
+
+.connectPicBot {
+  height: 45px;
+  border-radius: 50%;
+  position: relative;
+  left: 1rem;
+  bottom: 2.5rem;
+}
+
+
+.bottomCard {
+  position: relative;
+  top: 27rem;
+  right: 75.5rem;
+  height: 10rem;
+  width: 200rem;
+  border: 1px solid black;
+}
+
+.friendPic {
+  height: 45px;
+  border-radius: 50%;
+  position: relative;
+  left: 1rem;
+  top: 1rem;
+}
+.cardLine {
+  border: 2px;
+  background-color: grey;
+}
+
+.link {
+  position: relative;
+  left: 1rem;
+  top: .5rem;
+}
+
+.bottomHead {
+  margin: 15px;
+}
+.date {
+  color:grey;
+  margin: 15px
+}
+
+.bottomP {
+  margin: 15px;
+}
